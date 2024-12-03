@@ -2,10 +2,10 @@
   "compilerOptions": {
     "target": "es5",
     "module": "commonjs",
-    "outDir": "./frontend/js",
-    "rootDir": "./frontend/ts",
+    "outDir": "./src/js",
+    "rootDir": "./src/ts",
     "strict": true
   },
-  "include": ["frontend/ts/**/*.ts"],
+  "include": ["src/ts/**/*.ts"],
   "exclude": ["node_modules"]
 }

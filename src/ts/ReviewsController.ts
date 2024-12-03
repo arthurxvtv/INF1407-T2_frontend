@@ -4,7 +4,7 @@ interface Review {
   stars: number;
 }
 
-const url = "http://localhost:8000";
+const url = "https://arthurxvtv.pythonanywhere.com/";
 
 class ReviewsController {
   token(): string | null {

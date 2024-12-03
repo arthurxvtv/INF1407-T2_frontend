@@ -1,5 +1,5 @@
 "use strict";
-var url = "http://localhost:8000";
+var url = "https://arthurxvtv.pythonanywhere.com/";
 var ReviewsController = /** @class */ (function () {
     function ReviewsController() {
     }
